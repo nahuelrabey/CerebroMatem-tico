@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "fc70131a3321714b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e77cb98117c3400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ad92c86a52f518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra Lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e49bf5e5b4785f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mapa Lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdea3ce8c9078159",
+    "type": "split",
+    "children": [
+      {
+        "id": "49c2bc224b1fc736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f22ca4a56b1fee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "672452d04e0016e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7762be3e810d9b1f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b50995d0457dbdc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbec85f6186a29aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e4bdd9a36f70d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf377d2bccd5d6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebra Lineal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b0f13061ff3bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra Lineal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0680707bb91b38cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22223f1d8064ec35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebra Lineal.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "99ad92c86a52f518",
+  "lastOpenFiles": [
+    "Rango de una Matriz.md",
+    "Algebra Lineal.md",
+    "Espacio de Fila.md",
+    "Espacio de Columnas.md",
+    "Espacio Nulo.md",
+    "Representación de matricial de un Mapa Lineal.md",
+    "Teorema - Subespacio de un Mapa Lineal.md",
+    "Imagen de un Mapa Lineal.md",
+    "Espacio Vectorial.md",
+    "Mapa Lineal.md",
+    "Nucleo de un Mapa Lineal.md",
+    "Espacios Vectoriales.md",
+    "Subespacios.md",
+    "Trayectorias.md",
+    "APUNTE.md",
+    "Superficies.md",
+    "EDO.md",
+    "Ecuaciones homogéneas de grado n.md",
+    "Ecuación diferencial de Velocidad y Aceleracion.md",
+    "Integrales Raras.md",
+    "Solución General EDO 1er Grado.md",
+    "EDO 1er Grado ejemplo función discontínua.md",
+    "Existencia y Unicidad en EDO de 1er grado.md",
+    "Pasted image 20240607144048.png",
+    "investigación - EDO 1er Grado discontínuas.md",
+    "Clases/03-06 TEO.md",
+    "Clases/03-06 PRA.md",
+    "Pasted image 20240603162442.png",
+    "Pasted image 20240603160752.png",
+    "Pasted image 20240603155248.png",
+    "Clases",
+    "Apuntes/Cálculo Vectorial - Jerrold E. Marsden y Anthony J. Tromba.pdf",
+    "Apuntes/Curvas - FCEN.pdf",
+    "Apuntes/Teoremas de Integración - FCEN.pdf",
+    "Apuntes",
+    "Pasted image 20240408001021.png",
+    "Derivadas",
+    "Analisis I LCDA/Definiciónes importantes",
+    "Analisis I LCDA/Stewart",
+    "media/Pasted image 20240206221423.png",
+    "media/Pasted image 20240206214659.png",
+    "media/Pasted image 20240206214549.png",
+    "Analisis I LCDA/Marsden-Tromba",
+    "media/Pasted image 20240205234358.png",
+    "media/Pasted image 20240205234106.png",
+    "Analisis I LCDA/Clases Grabadas",
+    "Untitled.canvas"
+  ]
+}
